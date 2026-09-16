@@ -1,0 +1,234 @@
+[
+  {
+    "name": "navy blue formal suit",
+    "price": 2999,
+    "description": "elegant navy blue formal suit designed for office wear, business meetings and formal occasions.",
+    "category": "formal wear",
+    "image": "https://ik.imagekit.io/drishtigohil/navy%20blue%20formal%20set?updatedAt=1788005357951",
+    "stock": 10
+  },
+  {
+    "name": "beige formal suit",
+    "price": 2899,
+    "description": "classic beige formal suit with a sophisticated look, perfect for office and formal events.",
+    "category": "formal wear",
+    "image": "https://ik.imagekit.io/drishtigohil/light%20brown%20suit",
+    "stock": 8
+  },
+  {
+    "name": "white formal pant with navy blue jacket",
+    "price": 2799,
+    "description": "stylish white formal pants paired with a navy blue jacket for a smart and modern formal look.",
+    "category": "formal wear",
+    "image": "https://ik.imagekit.io/drishtigohil/WhatsApp%20Image%202026-07-12%20at%205.17.06%20PM.jpeg",
+    "stock": 7
+  },
+  {
+    "name": "beige pant and jacket with brown shirt",
+    "price": 2699,
+    "description": "smart beige pant and jacket set paired with a brown shirt, suitable for business and semi-formal occasions.",
+    "category": "formal wear",
+    "image": "https://ik.imagekit.io/drishtigohil/WhatsApp%20Image%202026-07-12%20at%205.17.55%20PM.jpeg",
+    "stock": 6
+  },
+  {
+    "name": "polo beige shirt",
+    "price": 899,
+    "description": "comfortable beige polo shirt with a clean and versatile design for everyday casual wear.",
+    "category": "polo shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/polo%20beige%20shirt.jpeg",
+    "stock": 20
+  },
+  {
+    "name": "polo cream white shirt",
+    "price": 899,
+    "description": "classic cream white polo shirt offering a smart and comfortable look for casual occasions.",
+    "category": "polo shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/polo%20cream%20white%20shirt.jpg",
+    "stock": 18
+  },
+  {
+    "name": "polo mint green shirt",
+    "price": 899,
+    "description": "fresh mint green polo shirt made for a stylish and relaxed everyday look.",
+    "category": "polo shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/polo%20mint%20green%20shirt.jpg",
+    "stock": 15
+  },
+  {
+    "name": "polo navy blue shirt",
+    "price": 949,
+    "description": "timeless navy blue polo shirt with a smart design, ideal for casual and semi-casual outfits.",
+    "category": "polo shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/polo%20navy%20blue%20shirt.jpeg",
+    "stock": 22
+  },
+  {
+    "name": "polo olive green shirt",
+    "price": 899,
+    "description": "stylish olive green polo shirt that combines comfort with a modern casual appearance.",
+    "category": "polo shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/polo%20olive%20green%20shirt.jpeg",
+    "stock": 14
+  },
+  {
+    "name": "polo pink shirt",
+    "price": 849,
+    "description": "comfortable pink polo shirt with a simple design, perfect for everyday casual styling.",
+    "category": "polo shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/polo%20pink%20shirt.jpg",
+    "stock": 16
+  },
+  {
+    "name": "polo brown shirt",
+    "price": 899,
+    "description": "rich brown polo shirt designed for a comfortable and effortlessly stylish casual look.",
+    "category": "polo shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/polo%20brown%20shirt.jpg",
+    "stock": 12
+  },
+  {
+    "name": "black half sleeve shirt",
+    "price": 799,
+    "description": "classic black half sleeve shirt suitable for casual outings and everyday wear.",
+    "category": "shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/blacj%20half%20sleeve%20shirt.jpg",
+    "stock": 18
+  },
+  {
+    "name": "beige half sleeve shirt",
+    "price": 799,
+    "description": "versatile beige half sleeve shirt offering a comfortable and smart casual appearance.",
+    "category": "shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/beige%20half%20sleeve%20shirt.jpg",
+    "stock": 15
+  },
+  {
+    "name": "black half sleeve shirt",
+    "price": 799,
+    "description": "comfortable black half sleeve shirt designed for a simple and stylish everyday outfit.",
+    "category": "shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/black%20half%20sleeve%20shirt.jfif",
+    "stock": 13
+  },
+  {
+    "name": "pink shirt",
+    "price": 749,
+    "description": "stylish pink shirt with a comfortable fit, perfect for casual and smart-casual occasions.",
+    "category": "shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/pink%20shirt.jpg",
+    "stock": 17
+  },
+  {
+    "name": "light olive shirt",
+    "price": 749,
+    "description": "light olive shirt offering a modern color and comfortable style for everyday wear.",
+    "category": "shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/Light%20Olive%20shirt.jpg",
+    "stock": 12
+  },
+  {
+    "name": "yellow shirt",
+    "price": 749,
+    "description": "bright yellow casual shirt designed to add a fresh and stylish touch to your outfit.",
+    "category": "shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/yellow%20shirt.jpg",
+    "stock": 10
+  },
+  {
+    "name": "spiderman t-shirt",
+    "price": 599,
+    "description": "fun spiderman graphic t-shirt perfect for casual everyday wear and superhero fans.",
+    "category": "t-shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/spiderman%20t-shirt.jpg",
+    "stock": 25
+  },
+  {
+    "name": "red t-shirt",
+    "price": 499,
+    "description": "comfortable red casual t-shirt designed for everyday wear and relaxed styling.",
+    "category": "t-shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/red%20tshirt.jfif",
+    "stock": 20
+  },
+  {
+    "name": "light blue t-shirt",
+    "price": 499,
+    "description": "soft light blue t-shirt with a simple casual design, ideal for everyday outfits.",
+    "category": "t-shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/light%20blue%20tshirt.jpg",
+    "stock": 22
+  },
+  {
+    "name": "hot wheels cream t-shirt",
+    "price": 599,
+    "description": "trendy cream t-shirt featuring a hot wheels-inspired graphic, perfect for casual wear.",
+    "category": "t-shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/hotwheels%20cream%20tshirt.jfif",
+    "stock": 18
+  },
+  {
+    "name": "black t-shirt",
+    "price": 499,
+    "description": "classic black t-shirt with a versatile design that pairs easily with any casual outfit.",
+    "category": "t-shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/blach%20tshirt.jpg",
+    "stock": 25
+  },
+  {
+    "name": "spiderman t-shirt",
+    "price": 599,
+    "description": "spiderman-themed casual t-shirt with a fun graphic design, perfect for everyday wear.",
+    "category": "t-shirts",
+    "image": "https://ik.imagekit.io/smlxvei9n/spiderman%20tshirt.jpg",
+    "stock": 20
+  },
+  {
+    "name": "white jeans",
+    "price": 1299,
+    "description": "classic white jeans with a versatile look, perfect for creating clean and stylish casual outfits.",
+    "category": "jeans",
+    "image": "https://ik.imagekit.io/smlxvei9n/white%20jeans.jpg",
+    "stock": 12
+  },
+  {
+    "name": "light blue jeans",
+    "price": 1299,
+    "description": "light blue jeans offering a relaxed and timeless style for everyday casual wear.",
+    "category": "jeans",
+    "image": "https://ik.imagekit.io/smlxvei9n/light%20blue%20jeans.jpg",
+    "stock": 15
+  },
+  {
+    "name": "grey jeans",
+    "price": 1349,
+    "description": "modern grey jeans designed for versatile styling and comfortable everyday wear.",
+    "category": "jeans",
+    "image": "https://ik.imagekit.io/smlxvei9n/grey%20jean.jpg",
+    "stock": 10
+  },
+  {
+    "name": "blue jeans",
+    "price": 1299,
+    "description": "classic blue denim jeans suitable for everyday casual outfits and versatile styling.",
+    "category": "jeans",
+    "image": "https://ik.imagekit.io/smlxvei9n/blue%20jeans.jpg",
+    "stock": 18
+  },
+  {
+    "name": "black jeans",
+    "price": 1399,
+    "description": "classic black jeans with a stylish and versatile design, perfect for casual and evening outfits.",
+    "category": "jeans",
+    "image": "https://ik.imagekit.io/smlxvei9n/black%20jeans.jpg",
+    "stock": 16
+  },
+  {
+    "name": "beige jeans",
+    "price": 1299,
+    "description": "stylish beige jeans offering a modern neutral look for casual everyday outfits.",
+    "category": "jeans",
+    "image": "https://ik.imagekit.io/smlxvei9n/beige%20jeans.jpg",
+    "stock": 11
+  }
+]
